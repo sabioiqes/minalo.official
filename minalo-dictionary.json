@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.3",
+  "schema_version": "0.3.1",
   "system": {
     "name": "mⲷɴəlo həboɴə",
     "name_ja": "ミナロ語",
@@ -49,7 +49,7 @@
     "adpositions": "接置詞は名詞の前に置く2文字の語。着点 ʌe /ge/（〜へ、〜まで）、起点 və /va/（〜から、比較の〜より）、静止点 ol /ol/（場所と時点の〜に）、道具 ɸə /fa/（〜で：道具・材料・代価）、随伴 zə /za/（〜と一緒に。語句をつなぐ「と」も兼ねる）、根拠 lө /lu/（〜のために、〜ので）。時の幅は起点と着点で表す。受け手は接置詞を使わず、2目的語の席に置く。",
     "clauses": "節の印 ⵜⲷ /ti/ は、後ろに節が続くことだけを示す語。言う・思うなどの動詞の後ろに単独で置くと内容節を導き、接置詞の後ろに置くとその接置詞が節を取ることを示す（理由・目的は根拠 lө ＋ ⵜⲷ、時点は静止点 ol ＋ ⵜⲷ、時の幅は起点 və・着点 ʌe ＋ ⵜⲷ）。名詞の後ろに「-ⵜⲷ」と付けると関係節になる。所有は名詞＋「-」＋1語で表す。"
   },
-  "status_note": "この版はミナロ政府広報課が公開する辞書（v0.3）。指示詞・疑問詞・数詞・時制と相の体系は整備中であり、それらに依存する文はまだ読めない部分がある。固有名詞（mⲷɴəlo・mɥө̄zө）は system.proper_nouns を参照。",
+  "status_note": "この版はミナロ政府広報課が公開する辞書（v0.3.1）。指示詞・疑問詞・数詞・時制と相の体系は整備中であり、それらに依存する文はまだ読めない部分がある。固有名詞（mⲷɴəlo・mɥө̄zө）は system.proper_nouns を参照。",
   "dictionary": [
     {
       "id": 1,
@@ -334,7 +334,7 @@
     {
       "id": 75,
       "word": "ʌөɴələ",
-      "ipa": "/ɡunələ/",
+      "ipa": "/ɡunala/",
       "ja": "腰",
       "en": "waist / hip",
       "field": "身体",
@@ -374,7 +374,7 @@
     {
       "id": 79,
       "word": "ⵜөbələ",
-      "ipa": "/tubələ/",
+      "ipa": "/tubala/",
       "ja": "肘",
       "en": "elbow",
       "field": "身体",
@@ -384,7 +384,7 @@
     {
       "id": 80,
       "word": "mⲷɸolə",
-      "ipa": "/mifolə/",
+      "ipa": "/mifola/",
       "ja": "頬",
       "en": "cheek",
       "field": "身体",
@@ -654,7 +654,7 @@
     {
       "id": 107,
       "word": "qəpⲷlə",
-      "ipa": "/kapilə/",
+      "ipa": "/kapila/",
       "ja": "敵",
       "en": "enemy",
       "field": "親族・人",
@@ -664,7 +664,7 @@
     {
       "id": 108,
       "word": "hⲷmⲷɴələ",
-      "ipa": "/haminələ/",
+      "ipa": "/himinala/",
       "ja": "若者",
       "en": "young person",
       "field": "親族・人",
@@ -764,7 +764,7 @@
     {
       "id": 118,
       "word": "ⵜeɸələ",
-      "ipa": "/tefələ/",
+      "ipa": "/tefala/",
       "ja": "雷",
       "en": "thunder / lightning",
       "field": "自然・天候",
@@ -774,7 +774,7 @@
     {
       "id": 119,
       "word": "ɴⲷsolə",
-      "ipa": "/nisolə/",
+      "ipa": "/nisola/",
       "ja": "霧",
       "en": "fog",
       "field": "自然・天候",
@@ -854,7 +854,7 @@
     {
       "id": 127,
       "word": "ʌebəɴə",
-      "ipa": "/ɡebəna/",
+      "ipa": "/ɡebana/",
       "ja": "丘",
       "en": "hill",
       "field": "自然・天候",
@@ -1034,7 +1034,7 @@
     {
       "id": 145,
       "word": "zəɸəmo",
-      "ipa": "/zafəmo/",
+      "ipa": "/zafamo/",
       "ja": "羊",
       "en": "sheep",
       "field": "動物・植物",
@@ -1044,7 +1044,7 @@
     {
       "id": 146,
       "word": "ɥⲷbələ",
-      "ipa": "/jibələ/",
+      "ipa": "/jibala/",
       "ja": "ヤギ",
       "en": "goat",
       "field": "動物・植物",
@@ -1054,7 +1054,7 @@
     {
       "id": 147,
       "word": "sⲷpⲷlə",
-      "ipa": "/sipilə/",
+      "ipa": "/sipila/",
       "ja": "鶏",
       "en": "chicken",
       "field": "動物・植物",
@@ -1264,7 +1264,7 @@
     {
       "id": 168,
       "word": "qesөɴə",
-      "ipa": "/kesona/",
+      "ipa": "/kesuna/",
       "ja": "チーズ",
       "en": "cheese",
       "field": "食べ物・飲み物",
@@ -1284,7 +1284,7 @@
     {
       "id": 170,
       "word": "zⲷɸⲷmo",
-      "ipa": "/zafimo/",
+      "ipa": "/zifimo/",
       "ja": "砂糖",
       "en": "sugar",
       "field": "食べ物・飲み物",
@@ -1294,7 +1294,7 @@
     {
       "id": 171,
       "word": "zⲷmⲷsə",
-      "ipa": "/zamisə/",
+      "ipa": "/zimisa/",
       "ja": "蜂蜜",
       "en": "honey",
       "field": "食べ物・飲み物",
@@ -1364,7 +1364,7 @@
     {
       "id": 178,
       "word": "beɴəɴə",
-      "ipa": "/benəna/",
+      "ipa": "/benana/",
       "ja": "壁",
       "en": "wall",
       "field": "道具・家・衣服",
@@ -1424,7 +1424,7 @@
     {
       "id": 184,
       "word": "ləɯəɴələ",
-      "ipa": "/lawanalə/",
+      "ipa": "/lawanala/",
       "ja": "橋",
       "en": "bridge",
       "field": "道具・家・衣服",
@@ -1764,7 +1764,7 @@
     {
       "id": 218,
       "word": "doɸəɸө",
-      "ipa": "/dofafo/",
+      "ipa": "/dofafu/",
       "ja": "怒る",
       "en": "get angry",
       "field": "動作",
@@ -1824,7 +1824,7 @@
     {
       "id": 224,
       "word": "ʌoɸө",
-      "ipa": "/gufo/",
+      "ipa": "/ɡofu/",
       "ja": "与える",
       "en": "give",
       "field": "動作",
@@ -1834,7 +1834,7 @@
     {
       "id": 225,
       "word": "voɸө",
-      "ipa": "/vofo/",
+      "ipa": "/vofu/",
       "ja": "受け取る／もらう",
       "en": "receive",
       "field": "動作",
@@ -1844,7 +1844,7 @@
     {
       "id": 226,
       "word": "qⲷɸө",
-      "ipa": "/kifo/",
+      "ipa": "/kifu/",
       "ja": "取る",
       "en": "take",
       "field": "動作",
@@ -1914,7 +1914,7 @@
     {
       "id": 233,
       "word": "beⵜeɸө",
-      "ipa": "/betefo/",
+      "ipa": "/betefu/",
       "ja": "直す",
       "en": "fix / repair",
       "field": "動作",
@@ -2024,7 +2024,7 @@
     {
       "id": 244,
       "word": "hosəɸө",
-      "ipa": "/hosofo/",
+      "ipa": "/hosafu/",
       "ja": "歌う",
       "en": "sing",
       "field": "動作",
@@ -2034,7 +2034,7 @@
     {
       "id": 245,
       "word": "ɥⲷlөɸө",
-      "ipa": "/jilufo/",
+      "ipa": "/jilufu/",
       "ja": "踊る",
       "en": "dance",
       "field": "動作",
@@ -2214,7 +2214,7 @@
     {
       "id": 263,
       "word": "ləɯoɸө",
-      "ipa": "/lawofo/",
+      "ipa": "/lawofu/",
       "ja": "渡る",
       "en": "cross",
       "field": "移動",
@@ -2224,7 +2224,7 @@
     {
       "id": 264,
       "word": "loɴⲷɸө",
-      "ipa": "/lunifo/",
+      "ipa": "/lonifu/",
       "ja": "通る",
       "en": "pass through",
       "field": "移動",
@@ -2234,7 +2234,7 @@
     {
       "id": 265,
       "word": "qⲷməɸө",
-      "ipa": "/kimafo/",
+      "ipa": "/kimafu/",
       "ja": "曲がる",
       "en": "turn (direction)",
       "field": "移動",
@@ -2474,7 +2474,7 @@
     {
       "id": 289,
       "word": "zəɸoɸө",
-      "ipa": "/zafofo/",
+      "ipa": "/zafofu/",
       "ja": "驚く",
       "en": "be surprised",
       "field": "感情・思考・感覚",
@@ -2604,7 +2604,7 @@
     {
       "id": 302,
       "word": "bөɴəsə",
-      "ipa": "/bunəsə/",
+      "ipa": "/bunasa/",
       "ja": "茶色",
       "en": "brown",
       "field": "色・形・性質",
@@ -2614,7 +2614,7 @@
     {
       "id": 303,
       "word": "hⲷɸəmo",
-      "ipa": "/hifəmo/",
+      "ipa": "/hifamo/",
       "ja": "灰色",
       "en": "gray",
       "field": "色・形・性質",
@@ -2624,7 +2624,7 @@
     {
       "id": 304,
       "word": "dəqəmo",
-      "ipa": "/dakəmo/",
+      "ipa": "/dakamo/",
       "ja": "ピンク／桃色",
       "en": "pink",
       "field": "色・形・性質",
@@ -3084,7 +3084,7 @@
     {
       "id": 350,
       "word": "vəɴoɯə",
-      "ipa": "/vunowa/",
+      "ipa": "/vanowa/",
       "ja": "昨日",
       "en": "yesterday",
       "field": "時間",
@@ -3234,7 +3234,7 @@
     {
       "id": 365,
       "word": "ɴөɸə",
-      "ipa": "/nufə/",
+      "ipa": "/nufa/",
       "ja": "決して〜ない",
       "en": "never",
       "field": "時間",
@@ -3504,7 +3504,7 @@
     {
       "id": 392,
       "word": "dⲷɸəsə",
-      "ipa": "/difəsə/",
+      "ipa": "/difasa/",
       "ja": "方向",
       "en": "direction",
       "field": "空間・位置",
@@ -3514,7 +3514,7 @@
     {
       "id": 393,
       "word": "ɴəbəɴə",
-      "ipa": "/nabəna/",
+      "ipa": "/nabana/",
       "ja": "中心",
       "en": "center",
       "field": "空間・位置",
@@ -3524,7 +3524,7 @@
     {
       "id": 394,
       "word": "qⲷɸələ",
-      "ipa": "/kifələ/",
+      "ipa": "/kifala/",
       "ja": "端",
       "en": "edge / end",
       "field": "空間・位置",
@@ -3564,7 +3564,7 @@
     {
       "id": 398,
       "word": "hosəɴələ",
-      "ipa": "/hosunələ/",
+      "ipa": "/hosanala/",
       "ja": "歌",
       "en": "song",
       "field": "社会・抽象・その他",
@@ -3844,7 +3844,7 @@
     {
       "id": 427,
       "word": "zөməɴə",
-      "ipa": "/zuməna/",
+      "ipa": "/zumana/",
       "ja": "公共",
       "en": "public",
       "field": "統治・共生",
@@ -4024,7 +4024,7 @@
     {
       "id": 445,
       "word": "mⲷdⲷɴələ",
-      "ipa": "/madinələ/",
+      "ipa": "/midinala/",
       "ja": "演劇",
       "en": "theatre / play",
       "field": "娯楽・芸術",
